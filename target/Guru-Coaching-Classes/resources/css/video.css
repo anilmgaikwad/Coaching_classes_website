@@ -1,0 +1,9 @@
+body {
+    background-color: #efefef;
+    cursor: auto;
+}
+ 
+#topVideo {
+    box-shadow: 0 0 20px #989898, 0 0 50px #b0b0b0;
+    margin: 50px auto;
+}
