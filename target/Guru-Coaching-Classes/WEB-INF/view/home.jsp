@@ -4,7 +4,7 @@
 <html>
 
 <head>
-	<title>Guru Coaching Classes Home Page</title>
+	<title>Guru Coaching Classes Home Page!</title>
 	<link type="text/css" rel="stylesheet"
 	href="${pageContext.request.contextPath}/resources/css/style.css">
 
